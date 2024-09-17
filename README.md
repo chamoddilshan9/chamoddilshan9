@@ -23,9 +23,9 @@
   <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,bootstrap,js,html,css,nodejs,php,mysql,java,android,electron,flutter,firebase,figma,photoshop&theme=dark" />
 </p>
 
----
+<!------->
 
-<h3 align="center">📝 Latest Blog Posts</h3>
+<!--<h3 align="center">📝 Latest Blog Posts</h3>-->
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
