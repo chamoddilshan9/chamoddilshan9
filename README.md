@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#007FFF; font-weight: bold;">Chamod Dilshan</span></h1>
 <h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Web+Developer+and+Entrepreneur;Lifelong+Learner;Passionate+about+Tech&font=Fira%20Code&center=true&width=380&height=50&color=007FFF&vCenter=true&size=22">
+    <img src="https://readme-typing-svg.demolab.com/?lines=.Web+Developer+and+Entrepreneur;Lifelong+Learner;Passionate+about+Tech&font=Fira%20Code&center=true&width=380&height=50&color=007FFF&vCenter=true&size=22">
 </h3>
 
 <p align="center">
