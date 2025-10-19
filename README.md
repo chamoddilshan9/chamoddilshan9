@@ -1,62 +1,70 @@
-<h1 align="center">Hi 👋, I'm <span style="color:#007FFF; font-weight: bold;">Chamod Dilshan</span></h1>
-<h3 align="center">
-    <img src="https://readme-typing-svg.demolab.com/?lines=.Web+Developer+and+Entrepreneur;Lifelong+Learner;Passionate+about+Tech&font=Fira%20Code&center=true&width=380&height=50&color=007FFF&vCenter=true&size=22">
-</h3>
+<h1 align="center">Hi 👋, I'm <span style="color:#007FFF;">Chamod Dilshan</span></h1>
+<h3 align="center">Web Developer | Entrepreneur | Lifelong Learner</h3>
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=chamoddilshan9&label=Profile%20views&color=0e75b6&style=flat" alt="chamoddilshan9" />
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/chamoddilshan9?color=007FFF&style=flat-square" />
-    <img alt="GitHub stars" src="https://img.shields.io/github/stars/chamoddilshan9?color=007FFF&style=flat-square" />
+  <a href="https://chamoddilshan.me" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-007FFF?style=flat-square&logo=about.me&logoColor=white"/>
+  </a>
+  <a href="mailto:chamoddilshancontact@gmail.com" target="_blank">
+    <img alt="Email" src="https://img.shields.io/badge/Email-007FFF?style=flat-square&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/chamoddilshan9" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-007FFF?style=flat-square&logo=linkedin&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-- 🌱 I’m currently learning **Next.js**
-- 👨‍💻 All of my projects are available at [chamoddilshan.me](https://chamoddilshan.me)
-- 📫 Reach me at **chamoddilshancontact@gmail.com**
-- ⚡ Fun fact: **Gaming**
+## About Me
+I am a **full-stack web developer** and **entrepreneur** passionate about building modern web applications and exploring innovative technology solutions. I enjoy learning new frameworks and tools to keep up with the latest trends in software development.  
+
+- 🌱 Currently learning: **Next.js, TypeScript, Tailwind CSS**  
+- 💻 Projects: [chamoddilshan.me](https://chamoddilshan.me)  
+- 📫 Contact: chamoddilshancontact@gmail.com  
+- ⚡ Interests: Gaming, Tech innovation, UI/UX design  
 
 ---
 
-<h3 align="center">🔥 Tech Stack</h3>
+## 🔧 Tech Stack
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,bootstrap,js,html,css,nodejs,php,mysql,java,android,electron,flutter,firebase,figma,photoshop&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nextjs,react,typescript,tailwind,bootstrap,js,html,css,nodejs,php,mysql,java,android,electron,flutter,firebase,figma,photoshop&theme=dark" alt="Tech Stack"/>
 </p>
 
-<!------->
-
-<!--<h3 align="center">📝 Latest Blog Posts</h3>-->
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+**Core Skills:** Next.js, React, TypeScript, Tailwind, Node.js, PHP, MySQL, Firebase  
+**Design & Tools:** Figma, Photoshop, Bootstrap, Electron, Flutter  
 
 ---
 
-<h3 align="center">📬 Connect with Me</h3>
+## 📂 Selected Projects
+| Project | Description | Tech |
+|---------|-------------|------|
+| [Personal Portfolio](https://chamoddilshan.me) | My professional portfolio showcasing projects & skills | Next.js, Tailwind |
+| [Trusted Villas](https://github.com/chamoddilshan9/trusted-villas) | Hotel listing & booking platform | Next.js, MongoDB |
+| [Poll Maker SaaS](https://github.com/chamoddilshan9/poll-maker) | Poll creation & sharing web app | Next.js, Tailwind, Firebase |
+
+*(Full project list available on my [portfolio](https://chamoddilshan.me))*
+
+---
+
+## 📬 Connect with Me
 <p align="center">
-    <a href="https://twitter.com/chamoddilshan9" target="_blank">
-        <img src="https://img.shields.io/badge/Twitter-007FFF?style=for-the-badge&logo=twitter&logoColor=white" />
-    </a>
-    <a href="https://linkedin.com/in/chamoddilshan9" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-007FFF?style=for-the-badge&logo=linkedin&logoColor=white" />
-    </a>
-    <a href="https://fb.com/chamod.dilshan.90281" target="_blank">
-        <img src="https://img.shields.io/badge/Facebook-007FFF?style=for-the-badge&logo=facebook&logoColor=white" />
-    </a>
-    <a href="https://instagram.com/chamod__9" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-007FFF?style=for-the-badge&logo=instagram&logoColor=white" />
-    </a>
-    <a href="https://medium.com/@chamoddilshan9" target="_blank">
-        <img src="https://img.shields.io/badge/Medium-007FFF?style=for-the-badge&logo=medium&logoColor=white" />
-    </a>
-    <a href="https://www.youtube.com/c/code with chamod" target="_blank">
-        <img src="https://img.shields.io/badge/YouTube-007FFF?style=for-the-badge&logo=youtube&logoColor=white" />
-    </a>
-    <a href="https://www.hackerrank.com/chamoddilshanco1" target="_blank">
-        <img src="https://img.shields.io/badge/Hackerrank-007FFF?style=for-the-badge&logo=hackerrank&logoColor=white" />
-    </a>
+  <a href="https://twitter.com/chamoddilshan9" target="_blank"><img src="https://img.shields.io/badge/Twitter-007FFF?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/chamoddilshan9" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-007FFF?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@chamoddilshan9" target="_blank"><img src="https://img.shields.io/badge/Medium-007FFF?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.youtube.com/c/codewithchamod" target="_blank"><img src="https://img.shields.io/badge/YouTube-007FFF?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.hackerrank.com/chamoddilshanco1" target="_blank"><img src="https://img.shields.io/badge/Hackerrank-007FFF?style=for-the-badge&logo=hackerrank&logoColor=white"/></a>
 </p>
 
 ---
 
+## 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=chamoddilshan9&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chamoddilshan9&layout=compact&theme=dark" alt="Top Languages" />
+</p>
 
+---
+
+> “Quality is not an act, it is a habit.” – Aristotle  
 
