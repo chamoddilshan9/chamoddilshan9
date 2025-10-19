@@ -34,16 +34,7 @@ I am a **full-stack web developer** and **entrepreneur** passionate about buildi
 **Core Skills:** Next.js, React, TypeScript, Tailwind, Node.js, PHP, MySQL, Firebase  
 **Design & Tools:** Figma, Photoshop, Bootstrap, Electron, Flutter  
 
----
 
-## 📂 Selected Projects
-| Project | Description | Tech |
-|---------|-------------|------|
-| [Personal Portfolio](https://chamoddilshan.me) | My professional portfolio showcasing projects & skills | Next.js, Tailwind |
-| [Trusted Villas](https://github.com/chamoddilshan9/trusted-villas) | Hotel listing & booking platform | Next.js, MongoDB |
-| [Poll Maker SaaS](https://github.com/chamoddilshan9/poll-maker) | Poll creation & sharing web app | Next.js, Tailwind, Firebase |
-
-*(Full project list available on my [portfolio](https://chamoddilshan.me))*
 
 ---
 
